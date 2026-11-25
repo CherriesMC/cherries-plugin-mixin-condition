@@ -3,7 +3,7 @@ plugins {
     `maven-publish`
 }
 
-group = "org.leavesmc"
+group = "org.endlessmc.cherries"
 version = "1.0.0"
 
 val asmVersion = "9.8"
@@ -52,10 +52,10 @@ publishing {
             withoutBuildIdentifier()
 
             pom {
-                val repoPath = "LeavesMC/leaves-plugin-mixin-condition"
+                val repoPath = "CherriesMC/cherries-plugin-mixin-condition"
                 val repoUrl = "https://github.com/$repoPath"
 
-                name.set("leaves-plugin-mixin-condition")
+                name.set("cherries-plugin-mixin-condition")
                 description.set(project.description)
                 url.set(repoUrl)
                 packaging = "jar"

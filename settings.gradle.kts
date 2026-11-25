@@ -1,1 +1,1 @@
-rootProject.name = "leaves-plugin-mixin-condition"
+rootProject.name = "cherries-plugin-mixin-condition"
