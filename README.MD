@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("org.leavesmc:leaves-plugin-mixin-condition:1.0.0")
+    compileOnly("org.endlessmc.cherries:cherries-plugin-mixin-condition:1.0.0")
 }
 ```
 
