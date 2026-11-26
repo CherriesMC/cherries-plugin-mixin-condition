@@ -12,9 +12,9 @@
 
 ### 引入
 
-> 自建 Maven 仓库发布前，请先在 Cherries 仓库执行 ./gradlew publishToMavenLocal。
+> 自建 Maven 仓库发布前，请先在 Cherries 仓库执行 `./gradlew publishToMavenLocal`。
 >
-> 注意：Java 包名仍为 org.leavesmc.plugin.mixin.condition，这是为了兼容现有插件。
+> 注意：Java 包名仍为 `org.leavesmc.plugin.mixin.condition`，这是为了兼容现有插件。
 
 ```kts
 repositories {
