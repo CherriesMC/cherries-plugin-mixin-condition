@@ -90,7 +90,7 @@ publishing {
         }
 
         repositories {
-            maven(System.getenv("CHERRIES_MAVEN_URL") ?: "https://cherriesmc.github.io/Cherries/") {
+            maven(System.getenv("CHERRIES_MAVEN_URL") ?: "https://repo.endlessmc.org/") {
                 name = "cherries"
                 if (System.getenv("CHERRIES_MAVEN_USERNAME") != null) {
                     credentials(PasswordCredentials::class) {
