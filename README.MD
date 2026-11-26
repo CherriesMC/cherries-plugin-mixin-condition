@@ -1,10 +1,10 @@
 # Mixin Condition
 
-按照一定条件来确定是否启用 Leaves 插件中的某些 Mixin。
+按照一定条件来确定是否启用 Cherries 插件中的某些 Mixin。
 
 ## 开始使用
 
-> `leaves-plugin-mixin-condition` 仅可在支持 Leaves Plugin 及其 Mixin 特性的平台上可用。
+> `cherries-plugin-mixin-condition` 仅可在支持 Cherries Plugin 及其 Mixin 特性的平台上可用。
 >
 > 目前还没有服务端正式发布此功能
 
