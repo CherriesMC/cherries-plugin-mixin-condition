@@ -17,6 +17,7 @@
 ```kts
 repositories {
     maven("https://cherriesmc.github.io/Cherries/")
+    maven("https://repo.papermc.io/repository/maven-public/")
 }
 
 dependencies {
